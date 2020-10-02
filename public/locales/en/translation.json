@@ -225,7 +225,7 @@
     "select": "Select",
     "name": "Name",
     "role": "Role",
-    "company": "Comapny",
+    "company": "Company",
     "email": "Email",
     "phone": "Phone",
     "save": "Save changes",
@@ -238,14 +238,14 @@
     "searchtitle": "Your search data will be stored in your pod"
   },
   "noInboxOpponent": {
-    "message": "Your opponent does not have an inbox in their Pod",
+    "message": "Your opponent does not have an inbox in their pod",
     "link": {
       "label": "Learn More",
       "href": "https://solidsdk.inrupt.net/public/general/en/missing-global-inbox.html"
     }
   },
   "noInboxUser": {
-    "message": "Global inbox not found, please go to your Pod and create one",
+    "message": "Global inbox not found, please go to your pod and create one",
     "link": {
       "label": "Learn more",
       "href": "https://solidsdk.inrupt.net/public/general/en/missing-global-inbox.html"
